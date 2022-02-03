@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.20f551cf.chunk.css",
+    "main.js": "/static/js/main.9e781584.chunk.js",
+    "main.js.map": "/static/js/main.9e781584.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.a389a5dc.js",
+    "runtime-main.js.map": "/static/js/runtime-main.a389a5dc.js.map",
+    "static/css/2.847439e0.chunk.css": "/static/css/2.847439e0.chunk.css",
+    "static/js/2.014a763b.chunk.js": "/static/js/2.014a763b.chunk.js",
+    "static/js/2.014a763b.chunk.js.map": "/static/js/2.014a763b.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.847439e0.chunk.css.map": "/static/css/2.847439e0.chunk.css.map",
+    "static/css/main.20f551cf.chunk.css.map": "/static/css/main.20f551cf.chunk.css.map",
+    "static/js/2.014a763b.chunk.js.LICENSE.txt": "/static/js/2.014a763b.chunk.js.LICENSE.txt",
+    "static/media/afternoon.24849df8.png": "/static/media/afternoon.24849df8.png",
+    "static/media/do_not_eat.56b90e4c.png": "/static/media/do_not_eat.56b90e4c.png",
+    "static/media/do_not_sleep.e8931918.png": "/static/media/do_not_sleep.e8931918.png",
+    "static/media/evening.b855b98b.png": "/static/media/evening.b855b98b.png",
+    "static/media/morning.d655b629.png": "/static/media/morning.d655b629.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a389a5dc.js",
+    "static/css/2.847439e0.chunk.css",
+    "static/js/2.014a763b.chunk.js",
+    "static/css/main.20f551cf.chunk.css",
+    "static/js/main.9e781584.chunk.js"
+  ]
+}
